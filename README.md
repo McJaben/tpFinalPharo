@@ -20,18 +20,24 @@ Programación Orientada a Objetos
 
 
 [Introducción:	1](#Introducción)
+
 [Objetivo del Informe	2](#objetivodelinforme)
-[Enunciado: Empresa de Turismo.	3](#enunciadoempresadeturismo3)
-[Resolución:	5](#resolucin5)
-[Diagrama de clases:	5](#diagramadeclases5)
-[Diagramas de secuencia principales:	6](#diagramasdesecuenciaprincipales6)
-	[Generar un contrato y todo lo que implica:	6](#generaruncontratoytodoloqueimplica6)
-	[Verificar un viaje entre dos fechas:	9](#verificarunviajeentredosfechas9)
-[Explicación de cada clase del sistema	10](#explicacindecadaclasedelsistema10)
-	[1) Clase EmpresaTurismo:	10](#1claseempresaturismo10)
-	[2) Clase Cliente:	10](#2clasecliente10)
-	[3) Clase DatosCliente:	10](#3clasedatoscliente10)
-	[4) Clase ViajeroFrecuente:	10](#4claseviajerofrecuente10)
+
+[Enunciado: Empresa de Turismo.	3](#enunciadoempresadeturismo)
+
+[Resolución:	5](#resolución)
+
+[Diagrama de clases:	5](#diagramadeclases)
+
+[Diagramas de secuencia principales:	6](#diagramasdesecuenciaprincipales)
+	[Generar un contrato y todo lo que implica:	6](#generaruncontratoytodoloqueimplica)
+	[Verificar un viaje entre dos fechas:	9](#verificarunviajeentredosfechas)
+ 
+[Explicación de cada clase del sistema	10](#explicacindecadaclasedelsistema)
+	[1) Clase EmpresaTurismo:	10](#1claseempresaturismo)
+	[2) Clase Cliente:	10](#2clasecliente)
+	[3) Clase DatosCliente:	10](#3clasedatoscliente)
+	[4) Clase ViajeroFrecuente:	10](#4claseviajerofrecuente)
 	[5) Clase Viaje:	11](#5claseviaje11)
 	[6) Clase ViajeEspecial:	11](#6claseviajeespecial11)
 	[7) Clase ViajeOrganizado:	11](#7claseviajeorganizado11)
@@ -42,8 +48,11 @@ Programación Orientada a Objetos
 	[12) Clase Contrato:	12](#12clasecontrato12)
 	[13) Clase ContratoFlexible:	12](#13clasecontratoflexible12)
 	[14) Clase Cuota:	13](#14clasecuota13)
+ 
 [Guía rápida de usuario - Interfaz gráfica:	13](#guarpidadeusuariointerfazgrfica13)
+
 [Conclusión:	14](#conclusin14)
+
 # Introducción: 
 
 - El presente informe busca ofrecer una explicación detallada del proceso de desarrollo de la aplicación solicitada. Desde la comprensión inicial del enunciado hasta la implementación final de la interfaz gráfica.
