@@ -7,8 +7,6 @@ Programación Orientada a Objetos
 
 
 
-
-
 7. Fecha de entrega: 08/03/2024.
 
 8. Integrantes:
@@ -19,45 +17,45 @@ Programación Orientada a Objetos
 - Índice:
 
 
-[Introducción:	1](#Introducción)
+[Introducción:](#introducción)
 
-[Objetivo del Informe	2](#ObjetivodelInforme)
+[Objetivo del Informe](#ObjetivodelInforme)
 
-[Enunciado: Empresa de Turismo.	3](#Enunciado:EmpresadeTurismo)
+[Enunciado: Empresa de Turismo.](#enunciado-empresa-de-turismo)
 
-[Resolución:	5](#resolución)
+[Resolución:](#resolución)
 
-[Diagrama de clases:	5](#diagramadeclases)
+[Diagrama de clases:](#diagrama-de-clases)
 
-[Diagramas de secuencia principales:	6](#diagramasdesecuenciaprincipales)
-	[Generar un contrato y todo lo que implica:	6](#generaruncontratoytodoloqueimplica)
-	[Verificar un viaje entre dos fechas:	9](#verificarunviajeentredosfechas)
+[Diagramas de secuencia principales:](#diagramas-de-secuencia-principales)
+	[Generar un contrato y todo lo que implica:](#generar-un-contrato-y-todo-lo-que-implica)
+	[Verificar un viaje entre dos fechas:](#verificar-un-viaje-entre-dos-fechas)
  
-[Explicación de cada clase del sistema	10](#explicacindecadaclasedelsistema)
-	[1) Clase EmpresaTurismo:	10](#1claseempresaturismo)
-	[2) Clase Cliente:	10](#2clasecliente)
-	[3) Clase DatosCliente:	10](#3clasedatoscliente)
-	[4) Clase ViajeroFrecuente:	10](#4claseviajerofrecuente)
-	[5) Clase Viaje:	11](#5claseviaje11)
-	[6) Clase ViajeEspecial:	11](#6claseviajeespecial11)
-	[7) Clase ViajeOrganizado:	11](#7claseviajeorganizado11)
-	[8) Clase FechaElegible:	11](#8clasefechaelegible11)
-	[9) Clase Etapa:	12](#9claseetapa12)
-	[10) Clase Excursion:	12](#10claseexcursion12)
-	[11) Clase ExcursiónElegida:	12](#11claseexcursinelegida12)
-	[12) Clase Contrato:	12](#12clasecontrato12)
-	[13) Clase ContratoFlexible:	12](#13clasecontratoflexible12)
-	[14) Clase Cuota:	13](#14clasecuota13)
+[Explicación de cada clase del sistema](#explicacion-de-cada-clase-del-sistema)
+	[1) Clase EmpresaTurismo:](#1-clase-empresa-turismo)
+	[2) Clase Cliente:](#2-clase-cliente)
+	[3) Clase DatosCliente:](#3-clase-datos-cliente)
+	[4) Clase ViajeroFrecuente:](#4-clase-viajero-frecuente)
+	[5) Clase Viaje:](#5-claseviaje)
+	[6) Clase ViajeEspecial:](#6-clase-viaje-especial)
+	[7) Clase ViajeOrganizado:](#7-clase-viaje-organizado)
+	[8) Clase FechaElegible:](#8-clase-fecha-elegible)
+	[9) Clase Etapa:](#9-clase-etapa)
+	[10) Clase Excursion:](#10-clase-excursion)
+	[11) Clase ExcursiónElegida:](#11-clase-excursion-elegida)
+	[12) Clase Contrato:](#12-clase-contrato)
+	[13) Clase ContratoFlexible:](#13-clase-contrato-flexible)
+	[14) Clase Cuota:](#14-clase-cuota)
  
-[Guía rápida de usuario - Interfaz gráfica:	13](#guarpidadeusuariointerfazgrfica13)
+[Guía rápida de usuario - Interfaz gráfica:](#guia-rapida-de-usuario-interfaz-grafica)
 
-[Conclusión:	14](#conclusin14)
+[Conclusión:](#conclusion)
 
 # Introducción: 
 
 - El presente informe busca ofrecer una explicación detallada del proceso de desarrollo de la aplicación solicitada. Desde la comprensión inicial del enunciado hasta la implementación final de la interfaz gráfica.
 
-- Objetivo del Informe
+## Objetivo del Informe
 
 - El objetivo es proporcionar una guía paso a paso, desde la conceptualización hasta la materialización de la aplicación requerida. Se utilizarán diversas herramientas y metodologías, aprendidas durante el transcurso de la materia, como diagramas UML, diagramas de clase y diagramas de secuencia, para abordar cada fase del proceso con precisión y claridad.
 - 
