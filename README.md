@@ -16,12 +16,11 @@ Programación Orientada a Objetos
 - Benjamín Morales
 
 - Kevin Quintero
-- 
 - Índice:
 
 
-[Introducción:	1](#introduccin1)
-[Objetivo del Informe	2](#objetivodelinforme2)
+[Introducción:	1](#Introducción)
+[Objetivo del Informe	2](#objetivodelinforme)
 [Enunciado: Empresa de Turismo.	3](#enunciadoempresadeturismo3)
 [Resolución:	5](#resolucin5)
 [Diagrama de clases:	5](#diagramadeclases5)
