@@ -21,9 +21,9 @@ Programación Orientada a Objetos
 
 [Introducción:	1](#Introducción)
 
-[Objetivo del Informe	2](#objetivodelinforme)
+[Objetivo del Informe	2](#ObjetivodelInforme)
 
-[Enunciado: Empresa de Turismo.	3](#enunciadoempresadeturismo)
+[Enunciado: Empresa de Turismo.	3](#Enunciado:EmpresadeTurismo)
 
 [Resolución:	5](#resolución)
 
